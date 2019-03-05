@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="14460.31" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="AgC-eL-Hgc">
+    <device id="watch38" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="watchOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="14460.16"/>
+    </dependencies>
+    <scenes>
+        <!--Interface Controller-->
+        <scene sceneID="aou-V4-d1y">
+            <objects>
+                <controller id="AgC-eL-Hgc" customClass="InterfaceController">
+                    <items>
+                        <label width="136" height="41" alignment="left" text="Please send your data from iPhone." numberOfLines="2" id="fdi-dS-AXQ">
+                            <fontDescription key="font" type="system" weight="heavy" pointSize="12"/>
+                        </label>
+                        <table alignment="left" id="NjU-o0-CV0">
+                            <items>
+                                <tableRow identifier="TableRowController" id="x3g-Mp-nzu" customClass="TableRowController">
+                                    <group key="rootItem" width="1" height="65" alignment="left" id="RES-kf-gZl">
+                                        <items>
+                                            <label width="136" height="64" alignment="left" text="Loading..." numberOfLines="3" id="HP0-1Z-Sjc">
+                                                <fontDescription key="font" type="system" weight="heavy" pointSize="15"/>
+                                            </label>
+                                        </items>
+                                    </group>
+                                    <connections>
+                                        <outlet property="titleLabel" destination="HP0-1Z-Sjc" id="IjX-xV-niO"/>
+                                    </connections>
+                                </tableRow>
+                            </items>
+                        </table>
+                    </items>
+                    <connections>
+                        <outlet property="alertLabel" destination="fdi-dS-AXQ" id="VDB-3E-OIy"/>
+                        <outlet property="theTable" destination="NjU-o0-CV0" id="cb1-Hq-gxD"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="45" y="142"/>
+        </scene>
+    </scenes>
+</document>

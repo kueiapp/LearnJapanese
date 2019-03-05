@@ -1,0 +1,90 @@
+
+/* Class = "UILabel"; text = "0.5"; ObjectID = "14M-GZ-gru"; */
+"14M-GZ-gru.text" = "0.5";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "1ti-fw-23S"; */
+"1ti-fw-23S.text" = "Title";
+
+/* Class = "UILabel"; text = "Speach speed"; ObjectID = "7V9-F3-nqF"; */
+"7V9-F3-nqF.text" = "Speach speed";
+
+/* Class = "UITableViewSection"; headerTitle = "Setting"; ObjectID = "AvO-hk-Zqz"; */
+"AvO-hk-Zqz.headerTitle" = "Setting";
+
+/* Class = "UILabel"; text = "台灣中國語"; ObjectID = "Bt3-AD-6xn"; */
+"Bt3-AD-6xn.text" = "台灣中國語";
+
+/* Class = "UILabel"; text = "Frameworks"; ObjectID = "Fsz-Bg-5rd"; */
+"Fsz-Bg-5rd.text" = "Frameworks";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "GiT-lE-bjB"; */
+"GiT-lE-bjB.text" = "1.0";
+
+/* Class = "UIBarButtonItem"; title = "Power by Kueiapp.com"; ObjectID = "I93-QZ-d5N"; */
+"I93-QZ-d5N.title" = "Power by Kueiapp.com";
+
+/* Class = "UITableViewController"; title = "MenuViewController"; ObjectID = "LjO-eL-mJp"; */
+"LjO-eL-mJp.title" = "MenuViewController";
+
+/* Class = "UILabel"; text = "Buy"; ObjectID = "LyB-fL-UFr"; */
+"LyB-fL-UFr.text" = "Buy";
+
+/* Class = "UILabel"; text = "Cloud Storage"; ObjectID = "M6U-we-WZL"; */
+"M6U-we-WZL.text" = "Cloud Storage";
+
+/* Class = "UILabel"; text = "Buy"; ObjectID = "Oiu-ru-muu"; */
+"Oiu-ru-muu.text" = "Buy";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "RHE-Ue-GHT"; */
+"RHE-Ue-GHT.text" = "Version";
+
+/* Class = "UILabel"; text = "Source"; ObjectID = "UGa-D4-6tc"; */
+"UGa-D4-6tc.text" = "Source";
+
+/* Class = "UILabel"; text = "link"; ObjectID = "b42-Bf-XVn"; */
+"b42-Bf-XVn.text" = "link";
+
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "e3T-gT-uQZ"; */
+"e3T-gT-uQZ.text" = "Privacy";
+
+/* Class = "UITableViewSection"; headerTitle = "Purchase"; ObjectID = "f0t-gq-C5a"; */
+"f0t-gq-C5a.headerTitle" = "Purchase";
+
+/* Class = "UILabel"; text = "SubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitle"; ObjectID = "fKx-U5-nwQ"; */
+"fKx-U5-nwQ.text" = "SubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitleSubtitle";
+
+/* Class = "UISearchBar"; placeholder = "Add a sentense here"; ObjectID = "gHz-bN-pXw"; */
+"gHz-bN-pXw.placeholder" = "Add a sentense here";
+
+/* Class = "UISearchBar"; gHz-bN-pXw.scopeButtonTitles[0] = "Title"; ObjectID = "gHz-bN-pXw"; */
+"gHz-bN-pXw.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; gHz-bN-pXw.scopeButtonTitles[1] = "Title"; ObjectID = "gHz-bN-pXw"; */
+"gHz-bN-pXw.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UILabel"; text = "Language Pack"; ObjectID = "j4S-DY-UTn"; */
+"j4S-DY-UTn.text" = "Language Pack";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "l11-fG-65i"; */
+"l11-fG-65i.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "liV-nq-7ON"; */
+"liV-nq-7ON.title" = "Done";
+
+/* Class = "UILabel"; text = "Buy"; ObjectID = "rNj-B4-QWP"; */
+"rNj-B4-QWP.text" = "Buy";
+
+/* Class = "UILabel"; text = "Remove Ads"; ObjectID = "rdu-fs-8Mu"; */
+"rdu-fs-8Mu.text" = "Remove Ads";
+
+/* Class = "UIBarButtonItem"; title = "Restore"; ObjectID = "saj-jV-mNh"; */
+"saj-jV-mNh.title" = "Restore";
+
+/* Class = "UILabel"; text = "link"; ObjectID = "xJL-5m-Ql5"; */
+"xJL-5m-Ql5.text" = "link";
+
+/* Class = "UITableViewSection"; headerTitle = "About"; ObjectID = "xk9-YJ-lIp"; */
+"xk9-YJ-lIp.headerTitle" = "About";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "yDs-Q6-bTR"; */
+"yDs-Q6-bTR.text" = "Subtitle";
